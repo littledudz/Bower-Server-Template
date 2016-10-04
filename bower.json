@@ -2,7 +2,7 @@
   "name": "same name as package.json",
   "description": "same description as package.json",
   "version": "0.0.0",
-  "license": "MIT",
+  "license": "",
   "private": true,
   "dependencies": {
     "angular": "1.5.x",
