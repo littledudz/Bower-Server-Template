@@ -1,0 +1,15 @@
+{
+  "name": "same name as package.json",
+  "description": "same description as package.json",
+  "version": "0.0.0",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "1.5.x",
+    "angular-animate": "1.5.x",
+    "angular-carousel": "1.0.x",
+    "angular-mocks": "1.5.x",
+    "angular-resource": "1.5.x",
+    "angular-route": "1.5.x"
+  }
+}
